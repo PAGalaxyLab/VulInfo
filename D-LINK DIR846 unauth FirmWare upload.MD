@@ -1,4 +1,4 @@
-# D-Link DIR-846 Unauthorized upload of configuration file #
+# D-Link DIR-846 Unauthorized upload of FirmWare file #
 
 **vender** ：D-Link
 
