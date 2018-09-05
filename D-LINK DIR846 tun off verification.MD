@@ -1,4 +1,4 @@
-# D-Link DIR-846(w) Unauthenticated users can turn off API interface login verification#
+# D-Link DIR-846(w) Unauthenticated users can turn off API interface login verification #
 
 **vender** ：D-Link
 
