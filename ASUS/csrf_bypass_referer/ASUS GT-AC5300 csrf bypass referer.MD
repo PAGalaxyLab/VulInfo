@@ -11,6 +11,9 @@
 **Hardware Link**:https://www.asus.com/Networking/ROG-Rapture-GT-AC5300/HelpDesk_BIOS/
 
 ## Vul detail ##
+Cross-site request forgery (CSRF) vulnerability in the ASUS GT-AC5300 routers with firmware<=3.0.0.4.384_32738 allow remote attackers to hijack the authentication of administrators for requests that change the administrator password via a request to start_apply.htm . the Referer verification is using to block CSRF, but we can using page_default.cgi to bypass the referer verification.
+
+Reproduction Steps:
 1. Go to your wi-fi router gateway [i.e: http://router.asus.com]
 1. login with admin
 1. visit the page http://x.x.x.x/hack.html will change the admin password to 123456 and enable the sshd service 。the source code of hack.html: 
