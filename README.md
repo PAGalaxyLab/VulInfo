@@ -19,12 +19,12 @@ These are the vulnerabilities discovered by Galaxy Lab.
 
 #### DIR-816
 
-- [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_0). Credit: nabla
-- [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_1). Credit: nabla
-- [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_2). Credit: nabla
-- [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_3). Credit: nabla
-- [Stack overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/stack_overflow_0). Credit: nabla
-- [Stack overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/stack_overflow_1). Credit: nabla
+- [CVE-2018-17066](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17066): [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_0). Credit: nabla
+- [CVE-2018-17068](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17068): [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_1). Credit: nabla
+- [CVE-2018-17064](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17064): [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_2). Credit: nabla
+- [CVE-2018-17063](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17063): [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_3). Credit: nabla
+- [CVE-2018-17067](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17067): [Stack overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/stack_overflow_0). Credit: nabla
+- [CVE-2018-17065](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17065): [Stack overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/stack_overflow_1). Credit: nabla
 
 
 ## ASUS
