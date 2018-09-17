@@ -39,3 +39,24 @@ These are the vulnerabilities discovered by Galaxy Lab.
 
 ## SMARTY
 - [CVE-2018-16831](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-16831):[Directory Traversal](https://github.com/smarty-php/smarty/issues/486). Credit: bigbear
+
+
+## TP-Link
+
+#### WR886N
+
+- [CVE-2018-17004](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17004):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_00/README.md). Credit: lbp
+- [CVE-2018-17005](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17005):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_01/README.md). Credit: lbp
+- [CVE-2018-17006](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17006):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_02/README.md). Credit: lbp
+- [CVE-2018-17007](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17007):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_03/README.md). Credit: lbp
+- [CVE-2018-17008](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17008):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_04/README.md). Credit: lbp
+- [CVE-2018-17009](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17009):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_05/README.md). Credit: lbp
+- [CVE-2018-17010](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17010):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_06/README.md). Credit: lbp
+- [CVE-2018-17011](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17011):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_07/README.md). Credit: lbp
+- [CVE-2018-17012](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17012):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_08/README.md). Credit: lbp
+- [CVE-2018-17013](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17013):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_09/README.md). Credit: lbp
+- [CVE-2018-17014](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17014):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_10/README.md). Credit: lbp
+- [CVE-2018-17015](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17015):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_11/README.md). Credit: lbp
+- [CVE-2018-17016](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17016):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_12/README.md). Credit: lbp
+- [CVE-2018-17017](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17017):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_13/README.md). Credit: lbp
+- [CVE-2018-17018](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17018):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_14/README.md). Credit: lbp
