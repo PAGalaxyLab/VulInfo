@@ -35,6 +35,7 @@ These are the vulnerabilities discovered by Galaxy Lab.
 - [CVE-2018-17021](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17021):[Cross Site Scripting](https://github.com/PAGalaxyLab/VulInfo/blob/master/ASUS/ac5300_xss/ASUS%20GT-AC5300%20XSS.MD). Credit: bigbear
 - [CVE-2018-17022](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17022):[Stack overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/ASUS/buffer_overflow/ASUS%20GT-AC5300%20stack%20overflow.MD). Credit: bigbear
 - [CVE-2018-17023](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17023):[Cross-site request forgery](https://github.com/PAGalaxyLab/VulInfo/blob/master/ASUS/csrf_bypass_referer/ASUS%20GT-AC5300%20csrf%20bypass%20referer.MD). Credit: bigbear
+- [CVE-2018-17127](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17127): [NULL Dereference](https://github.com/PAGalaxyLab/VulInfo/blob/master/ASUS/GT-AC5300/dos1). Credit: nabla
 
 
 ## SMARTY
