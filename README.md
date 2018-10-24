@@ -61,3 +61,16 @@ These are the vulnerabilities discovered by Galaxy Lab.
 - [CVE-2018-17016](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17016):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_12/README.md). Credit: lbp
 - [CVE-2018-17017](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17017):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_13/README.md). Credit: lbp
 - [CVE-2018-17018](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17018):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_14/README.md). Credit: lbp
+
+## MiWifi
+
+#### ALL
+
+- [CVE-2018-17424](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17424):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+- [CVE-2018-17853](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17853):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+- [CVE-2018-18067](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18067):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+- [CVE-2018-17453](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17453):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+- [CVE-2018-18421](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18421):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+- [CVE-2018-18522](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18522):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+- [CVE-2018-18523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18523):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+- [CVE-2018-18549](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18549):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
