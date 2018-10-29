@@ -74,3 +74,11 @@ These are the vulnerabilities discovered by Galaxy Lab.
 - [CVE-2018-18522](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18522):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
 - [CVE-2018-18523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18523):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
 - [CVE-2018-18549](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18549):[Command Injection](https://github.com/PAGalaxyLab/VulInfo). Credit: GToad
+
+## Pippo
+
+#### ALL
+
+- [CVE-2017-18349](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-18349):[CWE-502: Deserialization of Untrusted Data](https://github.com/pippo-java/pippo/issues/466). Credit: JayZhang
+- [CVE-2018-18240](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18240):[CWE-502: Deserialization of Untrusted Data](https://github.com/pippo-java/pippo/issues/454). Credit: JayZhang
+- [CVE-2018-18628](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-18628):[CWE-502: Deserialization of Untrusted Data](https://github.com/pippo-java/pippo/issues/458). Credit: JayZhang
