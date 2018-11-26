@@ -61,7 +61,7 @@ These are the vulnerabilities discovered by Galaxy Lab.
 - [CVE-2018-17016](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17016):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_12/README.md). Credit: lbp
 - [CVE-2018-17017](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17017):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_13/README.md). Credit: lbp
 - [CVE-2018-17018](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17018):[Denial of Service](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/inetd_task_dos_14/README.md). Credit: lbp
-- [Buff Overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/dns_request_buff_overflow/README.md). Credit: lbp
+- [CVE-2018-19528](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-19528):[Buff Overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/TP-Link/WR886N/dns_request_buff_overflow/README.md). Credit: lbp
 
 ## MiWifi
 
