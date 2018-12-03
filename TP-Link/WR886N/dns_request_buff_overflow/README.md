@@ -13,7 +13,7 @@
 **Hardware Link**:http://www.tp-link.com.cn/product_397.html
 
 ## Vul detail ##
-Specially crafted packets to port 53/udp could cause a buff overflow in the affected products. An successful exploit can cause a denial of service (device reboot) or possibly execute arbitrary code.
+Specially crafted packets to port 53/udp could cause a buff overflow in the affected products. An successful exploit can cause a denial of service (device reboot) or execute arbitrary code.
 
 
 ![](tNetTask_crash.png)
@@ -30,4 +30,8 @@ After exploit the system code is modified, the router will directly read the fil
 
 ![](http_request_after_exploit.png)
 
+## Remote Code Exec ##
 
+With specially crafted packets to port 53/udp, An successful exploit can execute arbitrary code.
+
+![](DNS_Exploit_Video.gif)
