@@ -1,6 +1,0 @@
-JAMF software local permission promotion vulnerability
-1. Set the HTTP and HTTPS proxy to 127.0.0.1:8090 on the MAC
-2. Using burpsuite to intercept communication packets between JAMF and the server
-3. Administrators can publish bash shell scripts using JAMF by default
-4. when user click run,  we insert “/Applications/Utilities/Terminal app/Contents/MacOS/Terminal” into the server return packets using burpsuite
-5. Obtaining the root command terminal
