@@ -14,7 +14,7 @@
 
 ## Vul detail ##
 
-Attack can use a API URL "/goform/setSysAdm" to edit web and system account without authentication.
+Attacker can use a API URL "/goform/setSysAdm" to edit web and system account without authentication.
 
 ## POC
 

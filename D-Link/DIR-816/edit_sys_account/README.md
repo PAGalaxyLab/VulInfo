@@ -14,7 +14,7 @@
 
 ## Vul detail ##
 
-Attack can use a API URL "/goform/form2userconfig.cgi" to edit system account without authentication.
+Attacker can use a API URL "/goform/form2userconfig.cgi" to edit system account without authentication.
 
 ## POC
 

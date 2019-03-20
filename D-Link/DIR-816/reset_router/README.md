@@ -14,13 +14,13 @@
 
 ## Vul detail ##
 
-Attack can use a API URL "/goform/LoadDefaultSettings" to reset router without authentication.
+Attacker can use a API URL "/goform/LoadDefaultSettings" to reset router without authentication.
 
 ## POC
 
 ![](poc.png)
 
-Reset ruouter:
+Reset router:
 ```python
 # !/usr/bin/env python2
 # coding=utf-8
