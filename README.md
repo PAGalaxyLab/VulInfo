@@ -25,6 +25,10 @@ These are the vulnerabilities discovered by Galaxy Lab.
 - [CVE-2018-17063](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17063): [Command injection](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/cmd_injection_3). Credit: nabla
 - [CVE-2018-17067](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17067): [Stack overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/stack_overflow_0). Credit: nabla
 - [CVE-2018-17065](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-17065): [Stack overflow](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/stack_overflow_1). Credit: nabla
+- [Edit System Account Without Authentication](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/edit_sys_account/README.md). Credit: lbp
+- [Edit Web And System Account Without Authentication](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/edit_web_and_sys_account/README.md). Credit: lbp
+- [Remote Command Execute](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/remote_cmd_exec_0/README.md). Credit: lbp
+- [Reset Router Without Authentication](https://github.com/PAGalaxyLab/VulInfo/blob/master/D-Link/DIR-816/reset_router/README.md). Credit: lbp
 
 
 ## ASUS
